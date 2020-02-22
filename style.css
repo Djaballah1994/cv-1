@@ -1,0 +1,13 @@
+body { background: LightBlue; color: black;
+ /* commentaire */  margin-left: 5%;
+  margin-right: 5%;
+  font-family: Tahoma, Optima,  Calibri, sans-serif;}
+h2{ background: white;color:MidnightBlue}
+h2{ text-align: center;}
+
+
+h1{  color: MidnightBlue; } 
+h1,h2,h4,p,li,em,a { font-family: Calibri, sans-serif; font-style:  }
+
+div#div{text-align: right; }
+
